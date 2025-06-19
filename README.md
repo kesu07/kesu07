@@ -22,12 +22,12 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm kesu07!**
-👨‍🎓 I'm a student aspiring to become a software engineer.  
-💡 My primary interest is in web application development.  
-🌍 **Location:** Japan 🇯🇵  
-♨️ **Hobbies:** Sauna, Anime, Movies, Reading, Walking  
-🎯 **Goal:** To create services that make people's lives better.
+### 👋 Hi, I'm kesu07!
+<p>エンジニアを目指してWebアプリケーション開発を学んでいる学生です。人々の生活をより良くするサービスを作ることを目標にしています。</p>
+<ul style="margin: 0; padding-left: 20px;">
+  <li><b>所在地:</b> Japan 🇯🇵</li>
+  <li><b>趣味:</b> サウナ ♨️, アニメ 📺, 映画 🎬, 読書 📚, 散歩 🚶‍♂️</li>
+</ul>
 
 </td>
 </tr>
