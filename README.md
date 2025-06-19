@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+kesu07+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+kesu07+%F0%9F%91%8B;Student+%26+Aspiring+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Web+Development+Enthusiast+%E2%9C%A8;Loves+Sauna,+Anime,+and+Movies+%E2%99%A8%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -17,18 +17,17 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=react" width="100" height="100" alt="React" />
+<br><strong>Web Development</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm kesu07!**
-🚀 **Flutter Developer** passionate about mobile development  
-
+👨‍🎓 I'm a student aspiring to become a software engineer.  
+💡 My primary interest is in web application development.  
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+♨️ **Hobbies:** Sauna, Anime, Movies, Reading, Walking  
+🎯 **Goal:** To create services that make people's lives better.
 
 </td>
 </tr>
@@ -52,26 +51,23 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 🌐 **Frontend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### ⚙️ **Backend**
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,prisma" />
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 🗄️ **Database**
+<img src="https://skillicons.dev/icons?i=postgresql,supabase" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 💻 **Languages**
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🔧 **Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
 </tr>
@@ -92,5 +88,5 @@
   
   **⭐ From [kesu07](https://github.com/kesu07) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Let's create something amazing! ✨"*
 </div>
