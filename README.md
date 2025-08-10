@@ -38,10 +38,20 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kesu07&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
 
-<!-- GitHub標準の草だけを使うため、Activity Graphを削除 -->
+  <!-- モダンなアクティビティグラフ（ダーク背景 × 水色ベース） -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kesu07&custom_title=kesu07's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=9be9ff&line=00c6ff&point=ffffff&area=true&area_color=00aaff&hide_border=true"
+    alt="GitHub Activity Graph (ocean blue)"
+  />
+
+  <!-- モダンなストリーク統計（青系テーマ） -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kesu07&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="GitHub Streak Stats"
+  />
+
+</div>
 
 ## 🛠️ **Tech Stack**
 
@@ -83,8 +93,8 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
+
   **⭐ From [kesu07](https://github.com/kesu07) with ❤️**
-  
+
   *"Let's create something amazing! ✨"*
 </div>
